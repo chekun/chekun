@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hex's github stats](https://hex-stats.vercel.app/api?username=chekun)](https://github.com/chekun)
+<a href="https://github.com/hex-ci">
+  <img align="center" height="165" src="https://hex-stats.vercel.app/api?username=chekun&show_icons=true&include_all_commits=true" alt="Chekun's github stats">
+</a>
+<a href="https://github.com/hex-ci">
+  <img align="center" src="https://hex-stats.vercel.app/api/top-langs/?username=chekun&layout=compact">
+</a>
+
